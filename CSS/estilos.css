@@ -4,3 +4,10 @@ h2{
     text-align: center;
 }
 
+section{
+    background-color: aqua;
+}
+footer{
+    background-color: aqua;
+    padding: 10px;
+}
